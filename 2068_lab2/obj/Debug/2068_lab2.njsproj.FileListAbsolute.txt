@@ -1,0 +1,3 @@
+C:\Users\mhame\source\repos\2068_Lab2\2068_lab2\obj\Debug\2068_lab2.njsproj.CoreCompileInputs.cache
+C:\Users\mhame\source\repos\2068_Lab2\2068_lab2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\mhame\source\repos\2068_Lab2\2068_lab2\obj\Debug\2068_lab2.njsprojAssemblyReference.cache
